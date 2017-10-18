@@ -1,6 +1,6 @@
 {
   "name": "loopback-my-sms-masking-connector",
-  "version": "0.5.1",
+  "version": "0.1.1",
   "description": "loopback connector for mysmsmasking.com",
   "main": "index.js",
   "homepage": "http://loopback.io",
