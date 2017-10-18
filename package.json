@@ -1,0 +1,38 @@
+{
+  "name": "loopback-my-sms-masking-connector",
+  "version": "0.5.1",
+  "description": "loopback connector for mysmsmasking.com",
+  "main": "index.js",
+  "homepage": "http://loopback.io",
+  "keywords": [
+    "web",
+    "restful",
+    "rest",
+    "api",
+    "expess",
+    "loopback",
+    "twilio",
+    "StrongLoop",
+    "framework",
+    "mobile",
+    "mBaaS",
+    "mysmsmasking"
+  ],
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofyan Hadi Ahmad",
+  "license": {
+    "name": "MIT",
+    "url":
+      "https://github.com/sofyanhadia/loopback-my-sms-masking-connector/blob/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sofyanhadia/loopback-my-sms-masking-connector"
+  }
+}
