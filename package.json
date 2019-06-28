@@ -1,7 +1,7 @@
 {
-  "name": "loopback-my-sms-masking-connector",
-  "version": "0.1.1",
-  "description": "loopback connector for mysmsmasking.com",
+  "name": "loopback-connector-sms-generic",
+  "version": "0.1.0",
+  "description": "generic loopback connector for SMS",
   "main": "index.js",
   "homepage": "http://loopback.io",
   "keywords": [
@@ -16,23 +16,23 @@
     "framework",
     "mobile",
     "mBaaS",
-    "mysmsmasking"
+    "SMSgeneric"
   ],
   "dependencies": {
-    "axios": "^0.16.2"
+    "axios": "^0.19.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sofyan Hadi Ahmad",
+  "author": "Allen Kascy",
   "license": {
     "name": "MIT",
     "url":
-      "https://github.com/sofyanhadia/loopback-my-sms-masking-connector/blob/master/LICENSE"
+      "https://github.com/lnkas/loopback-connector-sms-generic/blob/master/LICENSE"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sofyanhadia/loopback-my-sms-masking-connector"
+    "url": "https://github.com/lnkas/loopback-connector-sms-generic.git"
   }
 }
