@@ -22,7 +22,7 @@ To use the connector, define the datasource using the connector in your `datasou
 Next, attach the created datasource to a model in the `model-config.json` file:
 
     "SMSModel": {
-        "dataSource": "SMSModel",
+        "dataSource": "SMSGeneric",
         "public": false
     }
     
