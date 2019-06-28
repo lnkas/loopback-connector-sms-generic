@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-sms-generic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "generic loopback connector for SMS",
   "main": "index.js",
   "homepage": "http://loopback.io",
