@@ -28,7 +28,7 @@ Next, attach the created datasource to a model in the `model-config.json` file:
     
 Now, using the created model, you can send an SMS or make a call using the `send` method of the model:
     
-    SMSMasking.send(options, callback);
+    SMSModel.send(options, callback);
     
 **Note**: `options` is defined by the JSON objects in the next two sections:
 
