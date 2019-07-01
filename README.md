@@ -42,7 +42,7 @@ All required query string parameters to be sent other than credentials in form o
     }
 
 ### Version
-0.1.0
+0.1.1
 
 License
 ----
